@@ -1,0 +1,12 @@
+﻿  AppBase.cpp
+  AppDrying.cpp
+  AppHdl.cpp
+  AppRinsing.cpp
+  AppSpinning.cpp
+  AppStartUp.cpp
+  AppWashing.cpp
+  MyUI.cpp
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AWM.vcxproj -> C:\Users\sxa0830\Documents\GitHub\AWM\Release\AWM.exe
+  AWM.vcxproj -> C:\Users\sxa0830\Documents\GitHub\AWM\Release\AWM.pdb (Full PDB)

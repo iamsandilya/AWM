@@ -1,0 +1,12 @@
+﻿  AppBase.cpp
+  AppDrying.cpp
+  AppHdl.cpp
+  AppRinsing.cpp
+  AppSpinning.cpp
+  AppStartUp.cpp
+  AppWashing.cpp
+  MyUI.cpp
+  Generating Code...
+  AppBase.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  AWM.vcxproj -> C:\Users\sxa0830\Documents\GitHub\AWM\Debug\AWM.exe
+  AWM.vcxproj -> C:\Users\sxa0830\Documents\GitHub\AWM\Debug\AWM.pdb (Partial PDB)
